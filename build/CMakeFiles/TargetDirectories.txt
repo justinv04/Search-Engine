@@ -1,0 +1,4 @@
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Search_Engine/build/CMakeFiles/rapidJSONExample.dir
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Search_Engine/build/CMakeFiles/supersearch.dir
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Search_Engine/build/CMakeFiles/edit_cache.dir
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Search_Engine/build/CMakeFiles/rebuild_cache.dir

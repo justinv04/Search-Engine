@@ -1,0 +1,229 @@
+facebook|sample_data/blogs_0004748.json,1
+biogen|sample_data/blogs_0002757.json,1
+mobileye|sample_data/blogs_0004136.json,1|sample_data/blogs_0001931.json,1
+amazon|sample_data/blogs_0002069.json,1|sample_data/blogs_0002324.json,1|sample_data/blogs_0001307.json,1|sample_data/blogs_0003036.json,1|sample_data/blogs_0004748.json,1
+cnbc|sample_data/blogs_0003515.json,1|sample_data/blogs_0003919.json,1|sample_data/blogs_0002427.json,1|sample_data/blogs_0003037.json,1|sample_data/blogs_0004394.json,1|sample_data/blogs_0004886.json,1|sample_data/blogs_0004389.json,1|sample_data/blogs_0001079.json,1|sample_data/blogs_0001220.json,1|sample_data/blogs_0002243.json,1|sample_data/blogs_0003038.json,1|sample_data/blogs_0004393.json,1|sample_data/blogs_0003310.json,1|sample_data/blogs_0002757.json,1|sample_data/blogs_0003906.json,1|sample_data/blogs_0004956.json,1
+intel corp|sample_data/blogs_0004136.json,1|sample_data/blogs_0001931.json,1
+spdr s&p biotech|sample_data/blogs_0002757.json,1
+alibaba group|sample_data/blogs_0003310.json,1
+apple|sample_data/blogs_0002324.json,1|sample_data/blogs_0004884.json,1|sample_data/blogs_0001163.json,1|sample_data/blogs_0002069.json,1|sample_data/blogs_0004748.json,1
+caterpillar|sample_data/blogs_0002444.json,1
+dihk chambers of industry and commerce|sample_data/coll_1/news_0064567.json,1|sample_data/news_0064567.json,1
+google|sample_data/blogs_0002069.json,1|sample_data/blogs_0002324.json,1|sample_data/blogs_0004694.json,1|sample_data/blogs_0003038.json,1|sample_data/blogs_0004748.json,1
+kewaunee scientific corp|sample_data/news_0064571.json,1|sample_data/coll_1/news_0064571.json,1|sample_data/coll_2/news_0064571.json,1
+reuters|sample_data/blogs_0004136.json,1|sample_data/blogs_0003132.json,1|sample_data/blogs_0004675.json,1|sample_data/blogs_0003037.json,1|sample_data/blogs_0000841.json,1|sample_data/news_0064571.json,1|sample_data/blogs_0004479.json,1|sample_data/coll_1/news_0064568.json,1|sample_data/blogs_0001164.json,1|sample_data/blogs_0002539.json,1|sample_data/coll_2/news_0064571.json,1|sample_data/blogs_0004389.json,1|sample_data/blogs_0003308.json,1|sample_data/blogs_0003905.json,1|sample_data/blogs_0003857.json,1|sample_data/coll_1/news_0064567.json,1|sample_data/blogs_0002324.json,1|sample_data/blogs_0001647.json,1|sample_data/blogs_0001467.json,1|sample_data/blogs_0004884.json,1|sample_data/blogs_0001932.json,1|sample_data/blogs_0003795.json,1|sample_data/blogs_0004110.json,1|sample_data/blogs_0004109.json,1|sample_data/blogs_0002665.json,1|sample_data/blogs_0000839.json,1|sample_data/blogs_0000837.json,1|sample_data/coll_1/news_0064571.json,1|sample_data/coll_2/news_0064572.json,1|sample_data/blogs_0001931.json,1|sample_data/blogs_0004948.json,1|sample_data/news_0064567.json,1|sample_data/blogs_0002242.json,1
+vale sa|sample_data/blogs_0003795.json,1
+aapl|sample_data/blogs_0004394.json,1
+alinea group beverage di|sample_data/blogs_0004956.json,1
+amgen|sample_data/blogs_0002757.json,1
+bank of america corp|sample_data/blogs_0003793.json,1
+board of trustees|sample_data/coll_1/news_0064570.json,1|sample_data/news_0064570.json,1|sample_data/coll_2/news_0064570.json,1
+clinton foundation|sample_data/blogs_0004948.json,1
+conexpo|sample_data/blogs_0002444.json,1
+eaton vance|sample_data/coll_1/news_0064570.json,1|sample_data/news_0064570.json,1|sample_data/coll_2/news_0064570.json,1
+food and drug administration|sample_data/blogs_0002243.json,1
+holdings corp|sample_data/coll_2/news_0064572.json,1
+journal|sample_data/blogs_0002444.json,1
+micron technology|sample_data/blogs_0004748.json,1
+opec|sample_data/blogs_0004676.json,1
+samarco|sample_data/blogs_0003795.json,1
+u.s. commodity futures trading commission|sample_data/blogs_0004676.json,1
+vw|sample_data/blogs_0004885.json,1
+3rd u.s. circuit court of appeals|sample_data/blogs_0000841.json,1
+al securities|sample_data/blogs_0003220.json,1
+alinea group|sample_data/blogs_0004956.json,1
+allergan|sample_data/blogs_0003037.json,1
+amazon.com|sample_data/blogs_0002069.json,1
+ant financial|sample_data/blogs_0003310.json,1
+aurora cannabis|sample_data/blogs_0004393.json,1
+bhp|sample_data/blogs_0003795.json,1
+blue house|sample_data/blogs_0004389.json,1
+carnegie mellon|sample_data/blogs_0004859.json,1
+chronicle of philanthropy|sample_data/blogs_0001584.json,1
+cme|sample_data/blogs_0001079.json,1
+columbus circle|sample_data/blogs_0004956.json,1
+cowen|sample_data/blogs_0004393.json,1
+disneyland|sample_data/blogs_0004694.json,1
+eu|sample_data/coll_1/news_0064567.json,1|sample_data/news_0064567.json,1
+fed|sample_data/coll_1/news_0064569.json,1|sample_data/news_0064569.json,1
+gbtc|sample_data/blogs_0003793.json,1
+grayscale investment trust|sample_data/blogs_0003793.json,1
+inside look uber technologies inc.|sample_data/blogs_0000840.json,1
+irs|sample_data/blogs_0002444.json,1
+justice dept|sample_data/blogs_0004948.json,1
+macy's|sample_data/blogs_0003035.json,1
+mins ago reuters|sample_data/blogs_0003857.json,1
+netflix|sample_data/blogs_0003906.json,1|sample_data/blogs_0004748.json,1
+petroleo brasileiro sa|sample_data/blogs_0004479.json,1|sample_data/blogs_0000839.json,1
+ross stores|sample_data/blogs_0001307.json,1
+senate|sample_data/blogs_0002925.json,1|sample_data/blogs_0001405.json,1
+thomson reuters|sample_data/coll_2/news_0064572.json,1
+u.s. securities and exchange commission|sample_data/coll_1/news_0064570.json,1|sample_data/news_0064570.json,1|sample_data/blogs_0004109.json,1|sample_data/coll_2/news_0064570.json,1
+volkswagen|sample_data/blogs_0004885.json,1
+wells fargo|sample_data/blogs_0001307.json,1
+& associates|sample_data/blogs_0002325.json,1
+aeo|sample_data/blogs_0004394.json,1
+alibaba|sample_data/blogs_0003310.json,1
+alphabet inc|sample_data/blogs_0002324.json,1
+amazon echo|sample_data/blogs_0002069.json,1
+amd|sample_data/blogs_0004886.json,1
+amza|sample_data/blogs_0004394.json,1
+apc|sample_data/blogs_0004394.json,1
+apple inc|sample_data/blogs_0002324.json,1|sample_data/blogs_0004884.json,1
+australian transport safety bureau|sample_data/blogs_0002665.json,1
+barclays|sample_data/blogs_0004391.json,1
+bhp billiton ltd|sample_data/blogs_0003795.json,1
+bloomberg|sample_data/blogs_0004392.json,1|sample_data/blogs_0001942.json,1|sample_data/blogs_0001306.json,1|sample_data/blogs_0002323.json,1|sample_data/blogs_0001405.json,1|sample_data/blogs_0003036.json,1|sample_data/blogs_0001730.json,1
+bmo|sample_data/blogs_0003794.json,1
+btg pactual|sample_data/blogs_0000839.json,1
+carnegie mellon university|sample_data/blogs_0004859.json,1
+caterpillar inc.|sample_data/blogs_0002444.json,1
+clf|sample_data/blogs_0004394.json,1
+cmg|sample_data/blogs_0004394.json,1
+cnbc intel|sample_data/blogs_0003038.json,1
+commerzbank rising|sample_data/blogs_0004390.json,1
+congress|sample_data/blogs_0002925.json,1|sample_data/blogs_0001405.json,1
+csx|sample_data/blogs_0004394.json,1
+disney|sample_data/blogs_0004694.json,1
+dltr|sample_data/blogs_0004394.json,1
+eikon|sample_data/coll_1/news_0064568.json,1|sample_data/news_0064571.json,1|sample_data/coll_1/news_0064571.json,1|sample_data/coll_2/news_0064571.json,1|sample_data/coll_2/news_0064572.json,1
+european parliament|sample_data/blogs_0003905.json,1
+fbi|sample_data/blogs_0004948.json,1
+federal reserve|sample_data/blogs_0004110.json,1
+fox & friends|sample_data/blogs_0004817.json,1
+getty images | nora carol photography|sample_data/blogs_0001973.json,1
+google home mini|sample_data/blogs_0002324.json,1|sample_data/blogs_0002069.json,1
+halliburton|sample_data/blogs_0004394.json,1
+ibm|sample_data/blogs_0004394.json,1
+intc|sample_data/blogs_0004394.json,1
+invesco|sample_data/blogs_0001079.json,1
+johnson & johnson|sample_data/blogs_0001942.json,1
+justice department|sample_data/blogs_0004948.json,1
+kentucky fried chicken|sample_data/blogs_0004956.json,1
+loup ventures|sample_data/blogs_0003036.json,1
+merrill lynch|sample_data/blogs_0003793.json,1
+min read  melbourne|sample_data/blogs_0002665.json,1
+mins ago shares marvin gentry | reuters democratic alabama u.s. senate|sample_data/blogs_0002925.json,1
+national weather service|sample_data/blogs_0004805.json,1
+nflx|sample_data/blogs_0003906.json,1
+people’s bank of china|sample_data/blogs_0004388.json,1
+plymouth|sample_data/blogs_0004805.json,1
+reuters staff|sample_data/blogs_0004136.json,1|sample_data/blogs_0002665.json,1|sample_data/blogs_0001931.json,1|sample_data/blogs_0002242.json,1
+s&p|sample_data/blogs_0003132.json,1|sample_data/blogs_0001220.json,1
+samarco mineração sa|sample_data/blogs_0003795.json,1
+shares brad quick|sample_data/blogs_0002243.json,1
+tencent|sample_data/blogs_0001164.json,1
+tjx|sample_data/blogs_0001307.json,1
+u.s. food and drug administration|sample_data/blogs_0001942.json,1
+united nations|sample_data/blogs_0001647.json,1
+venture capital tax|sample_data/blogs_0004391.json,1
+volkswagen group|sample_data/blogs_0004885.json,1
+wall street journal|sample_data/blogs_0000840.json,1|sample_data/blogs_0002444.json,1
+white house|sample_data/blogs_0003515.json,1|sample_data/blogs_0004389.json,1|sample_data/blogs_0002925.json,1
+agriculture|sample_data/blogs_0004395.json,1
+amazon.com inc|sample_data/blogs_0002324.json,1
+ap|sample_data/blogs_0004395.json,1|sample_data/blogs_0003918.json,1
+at&t|sample_data/blogs_0004819.json,1
+baba|sample_data/blogs_0004394.json,1
+bdi|sample_data/coll_1/news_0064567.json,1|sample_data/news_0064567.json,1
+broadsheet|sample_data/blogs_0001221.json,1
+bureau of labor statistics|sample_data/blogs_0004392.json,1
+carrefour|sample_data/coll_1/news_0064569.json,1|sample_data/news_0064569.json,1
+cnbc caterpillar|sample_data/blogs_0002444.json,1
+cnbc macy|sample_data/blogs_0003035.json,1
+commerzbank|sample_data/blogs_0004390.json,1
+communist party|sample_data/blogs_0001164.json,1
+confederation of british industry|sample_data/coll_1/news_0064567.json,1|sample_data/news_0064567.json,1
+csco|sample_data/blogs_0004394.json,1
+dal|sample_data/blogs_0004394.json,1
+directv|sample_data/blogs_0004819.json,1
+dow jones|sample_data/blogs_0003132.json,1
+eem|sample_data/blogs_0004394.json,1
+equifax|sample_data/blogs_0001973.json,1
+european central bank|sample_data/blogs_0001467.json,1
+evercore isi|sample_data/blogs_0003919.json,1
+fatos bytyci|sample_data/blogs_0003308.json,1
+fda|sample_data/blogs_0001942.json,1
+fortune|sample_data/blogs_0004885.json,1
+fund|sample_data/coll_1/news_0064570.json,1|sample_data/news_0064570.json,1|sample_data/coll_2/news_0064570.json,1
+geely holdings|sample_data/blogs_0001164.json,1
+gm|sample_data/blogs_0004394.json,1
+gop|sample_data/blogs_0003919.json,1|sample_data/blogs_0002925.json,1|sample_data/blogs_0001405.json,1
+hal|sample_data/blogs_0004394.json,1
+hill reuters staff|sample_data/blogs_0004948.json,1
+hyundai|sample_data/blogs_0004885.json,1
+ihs markit|sample_data/blogs_0001467.json,1
+intel|sample_data/blogs_0004886.json,1|sample_data/blogs_0003038.json,1
+israel venture capital research center|sample_data/blogs_0004136.json,1|sample_data/blogs_0001931.json,1
+jonathan cable|sample_data/blogs_0001467.json,1
+labor|sample_data/blogs_0004392.json,1
+mac|sample_data/blogs_0004394.json,1
+micron|sample_data/blogs_0004394.json,1
+min read  abuja|sample_data/blogs_0001932.json,1
+min read  san francisco|sample_data/blogs_0002324.json,1
+mitsubishi tanabe pharma|sample_data/blogs_0004136.json,1|sample_data/blogs_0001931.json,1
+moneygram|sample_data/blogs_0003310.json,1
+nbc|sample_data/blogs_0004805.json,1
+new york times|sample_data/blogs_0004818.json,1|sample_data/blogs_0004817.json,1
+northern league|sample_data/blogs_0003905.json,1
+palestine liberation organization|sample_data/blogs_0001306.json,1
+petrobras|sample_data/blogs_0000837.json,1|sample_data/blogs_0003918.json,1|sample_data/blogs_0004479.json,1|sample_data/blogs_0000839.json,1
+piper jaffray|sample_data/blogs_0003906.json,1
+pypl|sample_data/blogs_0004394.json,1
+s&p global market intelligence|sample_data/blogs_0004819.json,1
+sbux|sample_data/blogs_0004394.json,1
+senate finance committee|sample_data/blogs_0001405.json,1
+solvay|sample_data/coll_1/news_0064569.json,1|sample_data/news_0064569.json,1
+t.j. maxx|sample_data/blogs_0001307.json,1
+tesla|sample_data/blogs_0000838.json,1
+time|sample_data/blogs_0004818.json,1|sample_data/blogs_0001221.json,1
+twtr|sample_data/blogs_0004394.json,1
+u.s. department of commerce|sample_data/blogs_0003894.json,1
+u.s. justice department|sample_data/blogs_0004948.json,1
+ua|sample_data/blogs_0004394.json,1
+utah republican|sample_data/blogs_0001405.json,1
+valeant pharmaceuticals|sample_data/blogs_0003037.json,1
+virgin group|sample_data/blogs_0004458.json,1
+volvo|sample_data/blogs_0001164.json,1
+vw group|sample_data/blogs_0004885.json,1
+walmart|sample_data/blogs_0004392.json,1
+wen|sample_data/blogs_0004394.json,1
+white house press|sample_data/blogs_0004817.json,1
+cnbc tech guide cable|sample_data/blogs_0004819.json,1
+comcast|sample_data/blogs_0004819.json,1
+experian|sample_data/blogs_0001973.json,1
+forza italia|sample_data/blogs_0003905.json,1
+fxi|sample_data/blogs_0004394.json,1
+ge|sample_data/blogs_0004394.json,1
+getty images  cable|sample_data/blogs_0004819.json,1
+golden globes|sample_data/blogs_0004818.json,1
+haitong internation|sample_data/blogs_0003220.json,1
+kmx|sample_data/blogs_0004394.json,1
+lowy institute for|sample_data/blogs_0001729.json,1
+macquarie|sample_data/blogs_0003906.json,1
+microsoft|sample_data/blogs_0001584.json,1
+min read  amman|sample_data/blogs_0002539.json,1
+min read  rome|sample_data/blogs_0003905.json,1
+min read  united nations|sample_data/blogs_0001647.json,1
+nbr|sample_data/blogs_0004394.json,1
+new york post|sample_data/blogs_0004947.json,1
+nke|sample_data/blogs_0004394.json,1
+nvidia|sample_data/blogs_0004748.json,1
+orcl|sample_data/blogs_0004394.json,1
+pershing square capital management|sample_data/blogs_0003037.json,1
+petroleo brasileiro|sample_data/blogs_0000837.json,1
+phm|sample_data/blogs_0004394.json,1
+portfolio recovery associates llc|sample_data/blogs_0000841.json,1
+renewable energy oil|sample_data/blogs_0004676.json,1
+tencent holdings|sample_data/blogs_0001164.json,1
+thestreet.com's trifecta stocks|sample_data/blogs_0001220.json,1
+tif|sample_data/blogs_0004394.json,1
+trump white house|sample_data/blogs_0003515.json,1|sample_data/blogs_0004947.json,1|sample_data/blogs_0004675.json,1|sample_data/blogs_0004817.json,1
+u.n.|sample_data/blogs_0001647.json,1
+u.s. district court|sample_data/blogs_0003037.json,1
+u.s. senate|sample_data/blogs_0002925.json,1
+ual|sample_data/blogs_0004394.json,1
+ups|sample_data/blogs_0004394.json,1
+vale|sample_data/blogs_0004394.json,1
+wallethub|sample_data/blogs_0001973.json,1
+wba|sample_data/blogs_0004394.json,1

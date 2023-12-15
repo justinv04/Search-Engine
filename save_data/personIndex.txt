@@ -1,0 +1,205 @@
+jim lo scalzo|sample_data/blogs_0001306.json,1
+gordon|sample_data/blogs_0002757.json,1
+michael newberg|sample_data/blogs_0002444.json,1
+channing smith|sample_data/blogs_0003874.json,1
+hutchings|sample_data/blogs_0002665.json,1
+luxturna|sample_data/blogs_0002243.json,1
+richard cousins|sample_data/blogs_0002665.json,1
+beatrix von storch|sample_data/blogs_0002242.json,1
+eaton vance|sample_data/coll_1/news_0064570.json,1|sample_data/news_0064570.json,1|sample_data/coll_2/news_0064570.json,1
+heather|sample_data/blogs_0002665.json,1
+jed rakoff|sample_data/blogs_0000837.json,1|sample_data/blogs_0004479.json,1|sample_data/blogs_0000839.json,1
+khaled|sample_data/blogs_0001730.json,1
+martin lakos|sample_data/blogs_0001192.json,1
+noah|sample_data/blogs_0004817.json,1
+storch|sample_data/blogs_0002242.json,1
+albin kurti|sample_data/blogs_0003308.json,1
+brendan pierson publi|sample_data/blogs_0000839.json,1
+daniel acker|sample_data/blogs_0004392.json,1
+eric schweitzer|sample_data/coll_1/news_0064567.json,1|sample_data/news_0064567.json,1
+gretchen carlson|sample_data/blogs_0002319.json,1
+hillary clinton|sample_data/blogs_0004675.json,1|sample_data/blogs_0004948.json,1
+jack ma|sample_data/blogs_0003310.json,1
+jim crame|sample_data/blogs_0004886.json,1
+jonathan stempel|sample_data/blogs_0000841.json,1
+krzanich|sample_data/blogs_0003038.json,1
+mark hutchings|sample_data/blogs_0002665.json,1
+matthew mcclintock|sample_data/blogs_0004391.json,1
+nick kokonas|sample_data/blogs_0004956.json,1
+prince ali|sample_data/blogs_0002539.json,1
+silvio berlusconi|sample_data/blogs_0003905.json,1
+todd gordon|sample_data/blogs_0002757.json,1
+adam jeffery|sample_data/blogs_0003037.json,1|sample_data/blogs_0003035.json,1
+andrew harrer|sample_data/blogs_0001942.json,1|sample_data/blogs_0001405.json,1
+bill|sample_data/blogs_0001584.json,1
+brian krzanich|sample_data/blogs_0003038.json,1
+colbert|sample_data/blogs_0004817.json,1
+donald trump|sample_data/blogs_0003515.json,1|sample_data/blogs_0004389.json,1|sample_data/blogs_0004391.json,1|sample_data/blogs_0001306.json,1|sample_data/blogs_0001405.json,1|sample_data/blogs_0001647.json,1|sample_data/blogs_0003894.json,1|sample_data/blogs_0002664.json,1
+elliott|sample_data/blogs_0002757.json,1
+francesca|sample_data/coll_2/news_0064572.json,1
+grayson|sample_data/blogs_0004805.json,1
+hassan rouhani|sample_data/blogs_0002664.json,1
+heather bowden|sample_data/blogs_0002665.json,1
+hoda kotb|sample_data/blogs_0002319.json,1
+ike boruchow|sample_data/blogs_0001307.json,1
+jacob zamansky|sample_data/blogs_0002325.json,1
+jerome powell|sample_data/coll_1/news_0064569.json,1|sample_data/news_0064569.json,1
+jim cramer|sample_data/blogs_0001220.json,1|sample_data/blogs_0003894.json,1
+johnson|sample_data/blogs_0003906.json,1
+justin solomon|sample_data/blogs_0003038.json,1|sample_data/blogs_0003310.json,1
+king abdullah|sample_data/blogs_0002539.json,1
+li shufu|sample_data/blogs_0001164.json,1
+macy|sample_data/blogs_0003035.json,1
+market|sample_data/blogs_0004748.json,1
+matteo salvini|sample_data/blogs_0003905.json,1
+mauricio macri|sample_data/blogs_0003857.json,1
+mindy grossman|sample_data/blogs_0001730.json,1
+nicky loh|sample_data/blogs_0002323.json,1
+patrick t. fallon|sample_data/blogs_0001730.json,1
+procon|sample_data/blogs_0004884.json,1
+sarah huckabee sanders|sample_data/blogs_0004817.json,1
+steve bannon|sample_data/blogs_0004675.json,1|sample_data/blogs_0003515.json,1|sample_data/blogs_0004818.json,1|sample_data/blogs_0004947.json,1
+tesla|sample_data/blogs_0004887.json,1|sample_data/blogs_0000838.json,1
+wedn|sample_data/blogs_0003035.json,1
+ackman|sample_data/blogs_0003037.json,1
+al franken|sample_data/blogs_0002925.json,1
+alon sahar|sample_data/blogs_0004136.json,1|sample_data/blogs_0001931.json,1
+antonio tajani|sample_data/blogs_0003905.json,1
+benjamin netanyahu|sample_data/blogs_0001306.json,1
+bo|sample_data/blogs_0001307.json,1
+brian belski|sample_data/blogs_0003794.json,1
+carmen ledesma|sample_data/blogs_0004391.json,1
+claire|sample_data/blogs_0001221.json,1
+cramer|sample_data/blogs_0001220.json,1|sample_data/blogs_0003894.json,1|sample_data/blogs_0004886.json,1
+david seaburg|sample_data/blogs_0004393.json,1
+doug jones|sample_data/blogs_0002925.json,1
+edward cousins|sample_data/blogs_0002665.json,1
+emma bowden|sample_data/blogs_0002665.json,1
+eva longoria|sample_data/blogs_0001221.json,1
+gareth morgan|sample_data/blogs_0002665.json,1
+grant achatz|sample_data/blogs_0004956.json,1
+greg r|sample_data/blogs_0004109.json,1
+hal|sample_data/blogs_0004394.json,1
+hatch|sample_data/blogs_0001405.json,1
+helena|sample_data/blogs_0002322.json,1
+isla binnie|sample_data/blogs_0003905.json,1
+jackie deangelis|sample_data/blogs_0002427.json,1|sample_data/blogs_0001079.json,1
+jared kushner|sample_data/blogs_0004675.json,1
+jill gonzalez|sample_data/blogs_0001973.json,1
+jim cramer cramer|sample_data/blogs_0001220.json,1
+johann jungwirth|sample_data/blogs_0004885.json,1
+jonathan ernst|sample_data/blogs_0004389.json,1
+jungwirth|sample_data/blogs_0004885.json,1
+justin tallis|sample_data/blogs_0000838.json,1
+kim jong un|sample_data/blogs_0003132.json,1|sample_data/blogs_0004817.json,1
+kristina hooper|sample_data/blogs_0001079.json,1
+la repubblica|sample_data/blogs_0003905.json,1
+lisa beilfuss  merrill lynch|sample_data/blogs_0003793.json,1
+lynch|sample_data/blogs_0003793.json,1
+marius zaharia|sample_data/blogs_0001467.json,1
+mark kauzlarich|sample_data/blogs_0003036.json,1
+martin j. walsh|sample_data/blogs_0004805.json,1
+melinda gates|sample_data/blogs_0001584.json,1
+michael wolff|sample_data/blogs_0003515.json,1|sample_data/blogs_0004947.json,1|sample_data/blogs_0004675.json,1|sample_data/blogs_0004817.json,1
+moon jae-in|sample_data/blogs_0004389.json,1
+nikki haley|sample_data/blogs_0001647.json,1
+oprah|sample_data/blogs_0001730.json,1
+pete najarian|sample_data/blogs_0004394.json,1
+prince talal|sample_data/blogs_0002539.json,1
+rebekah mercer|sample_data/blogs_0004818.json,1
+rodrigo campos|sample_data/blogs_0001647.json,1
+seaburg|sample_data/blogs_0004393.json,1
+spotify|sample_data/blogs_0004109.json,1
+steve grasso|sample_data/blogs_0004394.json,1
+suleiman al-khalidi|sample_data/blogs_0002539.json,1
+tina smith|sample_data/blogs_0002925.json,1
+vale|sample_data/blogs_0003795.json,1
+wolff|sample_data/blogs_0004947.json,1
+aaron|sample_data/blogs_0001163.json,1
+adam|sample_data/blogs_0001163.json,1
+adebayo shittu|sample_data/blogs_0001932.json,1
+alexa|sample_data/blogs_0002069.json,1
+andrea kramar|sample_data/blogs_0004956.json,1
+anthony grisanti|sample_data/blogs_0001079.json,1
+bannon|sample_data/blogs_0004675.json,1
+beqir kalludra|sample_data/blogs_0003308.json,1
+bill ackman|sample_data/blogs_0003037.json,1
+bob lang|sample_data/blogs_0001220.json,1
+brendan pierson shar|sample_data/blogs_0004479.json,1
+brian stutland|sample_data/blogs_0001079.json,1
+carolyn julie fairbairn|sample_data/coll_1/news_0064567.json,1|sample_data/news_0064567.json,1
+chris williamson|sample_data/blogs_0001467.json,1
+claire zillman|sample_data/blogs_0001221.json,1
+craig johnson|sample_data/blogs_0003906.json,1
+donald trump jr.|sample_data/blogs_0004675.json,1
+eddie zelaya|sample_data/blogs_0004391.json,1
+eugen weinberg|sample_data/blogs_0004390.json,1
+felix onuah|sample_data/blogs_0001932.json,1
+frederic stevens|sample_data/blogs_0001584.json,1
+gonzalez|sample_data/blogs_0001973.json,1
+guy adami|sample_data/blogs_0004394.json,1
+hanan ashrawi|sample_data/blogs_0001306.json,1
+joachim lang|sample_data/coll_1/news_0064567.json,1|sample_data/news_0064567.json,1
+john podhoretz|sample_data/blogs_0004947.json,1
+jon fortt|sample_data/blogs_0003038.json,1
+jordan|sample_data/blogs_0002539.json,1
+kevin leung|sample_data/blogs_0003220.json,1
+kingsley jones|sample_data/blogs_0001620.json,1
+lang|sample_data/blogs_0001220.json,1
+liana b. baker|sample_data/blogs_0004109.json,1
+lowe|sample_data/blogs_0004391.json,1
+ma huateng|sample_data/blogs_0001164.json,1
+mitch mcconnell|sample_data/blogs_0002925.json,1
+muhammadu buhari|sample_data/blogs_0001932.json,1
+obama|sample_data/blogs_0002664.json,1
+orrin hatch|sample_data/blogs_0001405.json,1
+pete|sample_data/blogs_0004394.json,1
+podhoretz|sample_data/blogs_0004947.json,1
+prince faisal|sample_data/blogs_0002539.json,1
+quincy|sample_data/blogs_0004805.json,1
+reese witherspoon|sample_data/blogs_0004818.json,1|sample_data/blogs_0001221.json,1
+robbins|sample_data/blogs_0002505.json,1
+rouhani|sample_data/blogs_0002664.json,1
+schweitzer|sample_data/coll_1/news_0064567.json,1|sample_data/news_0064567.json,1
+shonda rhimes|sample_data/blogs_0001221.json,1
+siri|sample_data/blogs_0002324.json,1|sample_data/blogs_0002069.json,1
+stephen kim|sample_data/blogs_0003919.json,1
+steve miller|sample_data/blogs_0002243.json,1
+strax ab|sample_data/coll_1/news_0064568.json,1
+targ|sample_data/blogs_0004748.json,1
+tim nollen|sample_data/blogs_0003906.json,1
+tj maxx|sample_data/blogs_0001307.json,1
+trump|sample_data/blogs_0003515.json,1|sample_data/blogs_0004947.json,1|sample_data/blogs_0004389.json,1|sample_data/blogs_0004675.json,1|sample_data/blogs_0004391.json,1|sample_data/blogs_0001405.json,1|sample_data/blogs_0001306.json,1|sample_data/blogs_0004817.json,1|sample_data/blogs_0001647.json,1|sample_data/blogs_0002664.json,1
+wall stre|sample_data/blogs_0004694.json,1
+william cousins|sample_data/blogs_0002665.json,1
+zamansky|sample_data/blogs_0002325.json,1
+aaron connelly|sample_data/blogs_0001729.json,1
+branson|sample_data/blogs_0004458.json,1
+buhari|sample_data/blogs_0001932.json,1
+christina wilkie|sample_data/blogs_0003515.json,1
+gene munster|sample_data/blogs_0003036.json,1
+louise yamada|sample_data/blogs_0002427.json,1
+oprah winfrey|sample_data/blogs_0001730.json,1
+paresh dave|sample_data/blogs_0002324.json,1
+paul manafort|sample_data/blogs_0004675.json,1
+phan van anh vu|sample_data/blogs_0002323.json,1
+powell|sample_data/coll_1/news_0064569.json,1|sample_data/news_0064569.json,1
+richard branson|sample_data/blogs_0004458.json,1
+rita singh|sample_data/blogs_0004859.json,1
+robert daly|sample_data/blogs_0004819.json,1
+roger ailes|sample_data/blogs_0004947.json,1
+sao paulo|sample_data/blogs_0004884.json,1|sample_data/blogs_0003795.json,1
+sarah sanders|sample_data/blogs_0003515.json,1
+sijia jia|sample_data/blogs_0001164.json,1
+stephen nellis|sample_data/blogs_0002324.json,1
+talal bin mohammad|sample_data/blogs_0002539.json,1
+tim|sample_data/blogs_0004394.json,1
+tim seymour|sample_data/blogs_0004394.json,1
+tony robbins|sample_data/blogs_0002505.json,1
+trump jr.|sample_data/blogs_0004675.json,1
+valeant|sample_data/blogs_0003037.json,1
+wechat|sample_data/blogs_0001164.json,1
+wendy cutler|sample_data/blogs_0004389.json,1
+winfrey|sample_data/blogs_0001730.json,1
+yemi osinbajo|sample_data/blogs_0001932.json,1
+russell redding|sample_data/blogs_0004395.json,1
